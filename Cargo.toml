@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Mathematical proof that conservation is tradition-independent via Noether's theorem"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-tradition-proof"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
